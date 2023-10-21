@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956613797834",
+    "firebase_url": "https://screen-recorder-ae080.firebaseio.com",
+    "project_id": "screen-recorder-ae080",
+    "storage_bucket": "screen-recorder-ae080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956613797834:android:aeb06d6bf988cf1d945133",
+        "android_client_info": {
+          "package_name": "com.opera.oxbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956613797834-fjpvqrjqejooqun70ncgqi8vho47aadn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opera.oxbrowser",
+            "certificate_hash": "1004a79577c3de464c1551a5f295422b165559ee"
+          }
+        },
+        {
+          "client_id": "956613797834-8pn0fuc65ulh3ithiffb3s66curgm30u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqRdU4Z9RCLAgxWc2xBC5ogW8I455vyQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956613797834-8pn0fuc65ulh3ithiffb3s66curgm30u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

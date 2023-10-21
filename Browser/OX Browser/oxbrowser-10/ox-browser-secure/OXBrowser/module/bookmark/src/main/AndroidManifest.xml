@@ -1,0 +1,11 @@
+
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="jp.hazuki.bookmark">
+
+    <application>
+        <activity
+            android:name="jp.hazuki.yuzubrowser.bookmark.overflow.view.BookmarkOverflowMenuActivity"
+            android:label="@string/pref_action_settings"/>
+    </application>
+</manifest>
